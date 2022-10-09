@@ -113,10 +113,10 @@ footer:
             url: 'https://creativecommons.org/'
         Discuss on GitHub:
             icon: fas fa-comments
-            url: 'https://github.com/UyNad/uynad.github.io'
+            url: 'https://github.com/giabach1106/giabach1106.github.io'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/UyNad/uynad.github.io'
+            url: 'https://github.com/giabach1106/giabach1106.github.io'
 # Article related configurations
 article:
     # Code highlight settings
@@ -272,7 +272,7 @@ widgets:
         links:
             Hexo: 'https://hexo.io'
             Bulma: 'https://bulma.io'
-            Travis-ci: 'https://travis-ci.com/github/UyNad/uynad.github.io'
+            Travis-ci: 'https://travis-ci.com/github/giabach1106/giabach1106.github.io'
             Pinterest: 'https://www.pinterest.com/'
             Mixamo: 'https://www.mixamo.com/#/'
             Pixiv: 'https://www.pixiv.net/'
