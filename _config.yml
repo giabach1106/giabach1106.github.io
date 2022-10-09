@@ -132,4 +132,4 @@ theme: nexmoe
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: giabach1106.github.io
-  type: 'git'
+  type: git
